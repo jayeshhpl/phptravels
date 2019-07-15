@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12655" started-at="2019-07-15T10:46:01Z" finished-at="2019-07-15T10:46:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12655" started-at="2019-07-15T10:46:01Z" finished-at="2019-07-15T10:46:14Z">
+      <class name="com.phptravels.Testcases.Register_TC">
+        <test-method status="PASS" signature="gotosignup()[pri:0, instance:com.phptravels.Testcases.Register_TC@ae45eb6]" name="gotosignup" duration-ms="7770" started-at="2019-07-15T16:16:01Z" finished-at="2019-07-15T16:16:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotosignup -->
+        <test-method status="PASS" signature="verifytitle()[pri:0, instance:com.phptravels.Testcases.Register_TC@ae45eb6]" name="verifytitle" duration-ms="4837" started-at="2019-07-15T16:16:09Z" finished-at="2019-07-15T16:16:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitle -->
+      </class> <!-- com.phptravels.Testcases.Register_TC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
